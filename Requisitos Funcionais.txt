@@ -1,0 +1,4 @@
+Cliente: consultar informaçoes e o estado do seu projeto(tempo e valor)
+Web Service: gerir funções para disponibilizar tempo e valor
+App: representar a execução efetiva das tarefas
+Empregado: incluir periodos de tempos que dedicaram as tarefas e atribuir % de conclusao as tarefas
