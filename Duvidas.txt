@@ -1,3 +1,8 @@
 Devem submeter um ficheiro .zip, contendo o SRS, os documentos de planeamento (diagrama de Gantt, relatórios "Task Information" e "Who does what") e Diagrama de casos de uso.
 
 Os ficheiros devem estar em formatos pdf e jpg/png.
+
+
+Funcao definir cargo no caso de uso?
+
+O admim no diagrama de classe poderia entrar onde?
